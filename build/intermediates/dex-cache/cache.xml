@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-81f15ce1211a3600cf09db448654f9f1062c6de5.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-122ce922b162b0cad737ee815411afef1fc33e02.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-506ee441742ad463a7ec9ef6cbe758545bf37b29.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-3919c4a30088c1992d5d75c553bf1395d8fa6e95.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.4/89e9725439adffbbd41c5f5c215c136082b34a7f/joda-time-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="89e9725439adffbbd41c5f5c215c136082b34a7f">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/joda-time-2.4-3d661daa6b23269880c9d0fd68a76e5fd37439be.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-8d4cffde382be96d8f39de5b4376f9a0594d15ac.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-6b67c55e7a8e5ad41a312e54268b0d04b36cbcbf.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-d995f187f7059809d082f73508cf5c695240e6e4.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-0946db6d96f0d3b6b3a6a5615e42897abc3035ef.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de76a31d4a478cd8fcd7e30ec63261c18ba4f5a5">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-e52e2ff6ceaaf334c0a20deff7694f2d15d09e0f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-ba855084c67b2dfd4915512118448ead6ca96be7.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-b67c62260256576f191336bbc4b6abff0903b147.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-816204324524f3d69f02aabebd99c8f2c2c82f47.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-19d7cd34ae913e4e2f4cf48fe14fe44fb0dab3ab.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/retrofit-1.8.0-139f6a2f3d6ebacefa5cbed92a9fe6718b75f9e0.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-62dbe93cdb402c7a037d7487191344450229fcb1.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-9e8baff2c4ac720062187a2b94d0b9a670153e47.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/okhttp-2.0.0-4bb4b0a6feedeef2b42e399c69bb63c0c08299b3.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b068965b1347f34c1918a6d606358e7b357a1229">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-71b4dfcb68fad482cb837329b31a41f1c936fb2e.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-1abf7324518852a4e13ae00ac61ac3c824e32202.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/picasso-2.5.2-5d4c5312f292cf55a2ee6e634252fc60cfe85d86.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/.gradle/caches/modules-2/files-2.1/com.google.maps/google-maps-services/0.1.7/800654f3eb18347c12e05bec61e9bd12619d35ba/google-maps-services-0.1.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="800654f3eb18347c12e05bec61e9bd12619d35ba">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/google-maps-services-0.1.7-6c0d16288589b8bdc921f3110c5a600be6936cf8.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-d41947f8669a83c9ef1c941bab19e61b735868a1.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-1d663289883df3ee102be55144524a5b1725d33b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="074b93197194a0225023845f90cceba9518be74c">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-9b72cfee78a7f65b6f349fdf99c7f75fca36d227.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e65060ef2ec6ec98365250d2119d7968626fd3f">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-4615fffb56a246df10f74f25abac5b41b7d80db1.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-557367ab86b7e2733d8860ffa1429c0d2f890152.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-921c780eb258b2a4039ba58663d9efd65bff1a24.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c598243d9616e3c6132e054d43f50ff8f8dee63">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-7581000560250e061ae62a075ea1c66d8b700742.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-6ef4d823a7474a063e7c92f7324e5ccc5b8f89b2.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6fc144eac80d908c45c4308e9aaa55622cae086f">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-cecb592c53919559a5a0f93c60b2debabd0cdc91.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-5bcde1155bc7f3a1c9d8edf7e980a2f4cf53fa3d.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-0e131f69603930ffeb20ba63d0970815dba7b464.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-ac6429ba83a9a0ea57599d56bf47228842a5e878.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-db79a25f2a9f759b7683808f84e22f7fdeb374fc.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/gson-2.3.1-49ddfb57ede1d909cc0b9ecb6e31c235e25290be.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-f5092dd1ad4f23a6f03fc1f71491f97a73aca415.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/okio-1.0.0-cb67fc3569d2d5f3e779bf76c2bf2478f20ad589.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-a0459136cfba50c41daabde91fee0a210c44778e.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-00ec5c084d75e8152b69e6041ce008d1036c810a.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-44f2e40575f57cf04c78451e36c7f13307f7269d.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-05ff8e8ac04fe944aa71a5773e5fdb8d274091af.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/Chris/GitHub/hw-prog-submissions-christopher-le/YourFaultApp/mobile/build/intermediates/pre-dexed/debug/classes-e9103e2117bbc370c25ade435858eb1704ebadd9.jar/classes.dex" />
+    </item>
+
+</items>

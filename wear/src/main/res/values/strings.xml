@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YourFaultApp</string>
+    <string name="hello_msg">Listening for Earthquakes!</string>
+    <string name="hello_msg2">This phone app starts the service.</string>
+    <string name="fail_msg2">Restart the app.</string>
+    <string name="time">9 AM</string>
+    <string name="location">EarthquakeTitle</string>
+    <string name="distance">1000</string>
+</resources>

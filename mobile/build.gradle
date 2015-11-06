@@ -1,0 +1,57 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "me.chrisvle.yourfaultapp"
+        minSdkVersion 22
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            debuggable true
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    wearApp project(':wear')
+    testCompile 'junit:junit:4.12'
+
+    compile('com.twitter.sdk.android:twitter:1.8.0@aar') {
+        transitive = true;
+    }
+    compile('com.twitter.sdk.android:twitter-core:1.5.0@aar') {
+        transitive = true;
+    }
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'com.google.android.gms:play-services:8.1.0'
+    compile 'com.google.maps:google-maps-services:0.1.7'
+    compile 'com.google.maps.android:android-maps-utils:0.3.+'
+    compile 'com.android.support:design:23.0.1'
+}
